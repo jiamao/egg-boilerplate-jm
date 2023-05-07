@@ -56,7 +56,7 @@
     "@types/shortid": "^0.0.29",
     "cz-conventional-changelog": "^2.1.0",
     "easywebpack-cli": "^4.1.0",
-    "easywebpack-vue": "^4.2.1",
+    "easywebpack-vue": "^5.1.1",
     "egg-bin": "^4.9.0",
     "egg-scripts": "^2.10.0",
     "egg-ts-helper": "^1.13.0",
